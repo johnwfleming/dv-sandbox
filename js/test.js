@@ -1,4 +1,4 @@
-
+console.log("YO")
 Promise.all([
 
     d3.json("/data/us-states-abbrev-id-alt-dc.json")
